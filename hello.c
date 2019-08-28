@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
    printf("Gavin Grabill\n");
+   printf("Actuarial Science\n");
 
    return 0;
 }
